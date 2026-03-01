@@ -1,0 +1,23 @@
+{
+    "next_id": 4,
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "queso",
+            "cantidad": 6,
+            "precio": 3.0
+        },
+        {
+            "id": 2,
+            "nombre": "leche",
+            "cantidad": 12,
+            "precio": 1.5
+        },
+        {
+            "id": 3,
+            "nombre": "pan",
+            "cantidad": 20,
+            "precio": 0.2
+        }
+    ]
+}
